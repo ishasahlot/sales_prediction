@@ -34,8 +34,11 @@ The model demonstrates strong performance and accurately predicts sales based on
 - Visualized model effectiveness using scatter plots
 
 Author
+
 Isha Sahlot - LinkedIn : (https://www.linkedin.com/in/isha-sahlot-a18494219/)
+
 🎓 BTech Computer Science & Engineering (CyberSecurity)
+
 💻 Beginner in ML | Exploring Data Science 
 
 > 🚀 Part of CodSoft Data Science Internship Tasks
