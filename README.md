@@ -28,6 +28,10 @@ This project predicts advertising-based sales using a linear regression model tr
 ## 📈 Output
 The model demonstrates strong performance and accurately predicts sales based on advertising spend.
 
+<img width="984" height="944" alt="Screenshot 2025-07-05 at 2 58 34 AM" src="https://github.com/user-attachments/assets/1c3b1759-225f-401f-96fd-8a31894a1168" />
+
+<img width="567" height="451" alt="Screenshot 2025-07-05 at 2 59 03 AM" src="https://github.com/user-attachments/assets/7dc929a8-b5b4-4847-9411-52e534c0c210" />
+
 ## 🔮 Learnings
 - Gained hands-on experience with regression modeling
 - Learned data preprocessing and performance evaluation
